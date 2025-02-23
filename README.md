@@ -42,8 +42,9 @@ This project demonstrates how to build a CRUD API using Java Spring Boot, with v
 
 
 # Running the Application
+
 Run the application using your IDE or by executing mvn spring-boot:run from the command line.
 
-# Access the Swagger UI at http://localhost:8080/swagger-ui.html.
+# Access the Swagger UI 
 
-# TODO: Add inatructional comments to code
+http://localhost:8080/swagger-ui.html
